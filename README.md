@@ -9,3 +9,5 @@ Includes:
 - Entity Masking
 - POS Tagger
 - Phrase Chunking
+
+*All comments in the ipynb document are written in Bahasa Indonesia*
